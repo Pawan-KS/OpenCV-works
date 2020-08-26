@@ -1,7 +1,7 @@
 # OpenCV-works
 this repository contains some basic projects and common implementation of 
-**opencv in python**
+**Opencv in Python**
 . This was done to familarise myself with opencv and pycharm.
 And certainly 
-**not to**
-mention in my resume as PROJECTS XD 
+**NOT TO**
+mention in my resume as PROJECTS. :P 
